@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Simple 4 logic gates made with Wokwi
 
 ## How to test
 
-Explain how to use your project
+Use input pins 1-7 and see gates output on pins 1-4
 
 ## External hardware
 
